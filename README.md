@@ -11,7 +11,7 @@ This project is a simple stopwatch application built with React and Tailwind CSS
 
 ## Screenshots
 
-![Screenshot of Stopwatch](path_to_screenshot_image)
+![Screenshot of Stopwatch](https://github.com/Nathbecode/Stopwatch/blob/main/public/Capture.PNG)
 
 ## Getting Started
 
