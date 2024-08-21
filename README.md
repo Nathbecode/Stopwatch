@@ -15,3 +15,4 @@ This project is a simple stopwatch application built with React and Tailwind CSS
 
 #### Link to the stopwatch : 
 
+[Stop-watch](https://stopwatch-ofjj.onrender.com/)
