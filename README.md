@@ -9,10 +9,10 @@ This project is a simple stopwatch application built with React and Tailwind CSS
 - **Lap**: Record the current time without stopping the stopwatch.
 - **Responsive UI**: The application uses Tailwind CSS for a responsive and modern user interface.
 
+## Link : [Stop-watch](https://stopwatch-ofjj.onrender.com/)
+
 ## Screenshot
 
 ![Screenshot of Stopwatch](https://github.com/Nathbecode/Stopwatch/blob/main/public/Capture.PNG)
 
-#### Link to the stopwatch : 
 
-[Stop-watch](https://stopwatch-ofjj.onrender.com/)
